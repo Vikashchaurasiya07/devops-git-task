@@ -42,6 +42,8 @@ git branch -M main
 git checkout -b dev
 git checkout -b feature/hello-world
 ![image](https://github.com/user-attachments/assets/a623e35b-2dfa-4d1d-b9b2-c6965941fe1c)
+![Screenshot (28)](https://github.com/user-attachments/assets/70899d91-1655-4b62-a35f-47f236091829)
+
 
 
 # Add a sample file and commit
