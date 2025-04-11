@@ -57,13 +57,14 @@ git push -u origin feature/hello-world
 ![image](https://github.com/user-attachments/assets/21f698d8-4420-4ed4-a56e-4b9018aa63ae)
 
 
-# Create and merge PRs on GitHub UI
 
 # Tagging a release
 git checkout main
 git tag -a v1.0 -m "Version 1.0 release"
 git push origin v1.0
 ![image](https://github.com/user-attachments/assets/0e4ddf55-6db9-44c1-ae80-d401fdec6eb6)
+![Screenshot (26)](https://github.com/user-attachments/assets/fd383641-ff64-4dc1-b199-64ec50a41a1f)
+
 
 
 
